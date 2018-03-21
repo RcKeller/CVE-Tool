@@ -40,4 +40,4 @@ match({routes, history}, (error, redirectLocation, renderProps) => {
 })
 
 //  Load styles ASAP, preventing FOUT
-import './css/index.scss'
+import './styles/index.scss'
